@@ -1,7 +1,7 @@
-<h1> flask redis </h1>
+<h1> Flask & Redis </h1>
 
 
-# 1. init command
+# 1. Run command
 ```shell
 $ docker pull redis
 $ docker run -d --name redis redis
