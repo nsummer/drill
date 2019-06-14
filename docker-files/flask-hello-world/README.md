@@ -2,6 +2,7 @@
 
 
 # 1. Run command
+- eg:
 ```shell
 $ docker build -t nancy/flask-hello-world .
 $ docker run -d --name flask-hello-world nancy/flask-hello-world
