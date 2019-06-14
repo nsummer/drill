@@ -2,6 +2,7 @@
 
 
 # 1. Run command
+- eg:
 ```shell
 $ docker pull redis
 $ docker run -d --name redis redis
